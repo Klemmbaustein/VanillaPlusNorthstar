@@ -1,0 +1,6 @@
+[submodule "repos/NP.VanillaPlus"]
+	path = repos/NP.VanillaPlus
+	url = https://github.com/Zayveeo5e/NP.VanillaPlus.git
+[submodule "repos/NorthstarLauncher"]
+	path = repos/NorthstarLauncher
+	url = https://github.com/Klemmbaustein/NorthstarLauncher.git
